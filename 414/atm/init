@@ -1,0 +1,26 @@
+#!/bin/sh
+
+if [ $# != 1 ]; then
+    echo "Usage:  init <filename>"
+    exit 62
+fi
+if test -f "$1".atm; then
+    echo "Error: one of the files already exists"
+    exit 63
+fi
+if test -f "$1".bank; then
+    echo "Error: one of the files already exists"
+    exit 63
+fi
+
+
+{
+openssl rand -hex 128 | tee "$1".bank > "$1".atm
+echo "Successfully initialized bank state"
+exit 0
+} || {
+    echo "Error creating initialization files"
+    exit 64
+}
+
+
