@@ -1,0 +1,4 @@
+Peter 10
+Mary 5
+John 7
+Liz    45
