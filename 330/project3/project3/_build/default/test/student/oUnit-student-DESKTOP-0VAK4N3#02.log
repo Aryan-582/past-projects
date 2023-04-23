@@ -1,0 +1,9 @@
+2022-04-02T02:24:12+00:00 DESKTOP-0VAK4N3#02 I: Start test student:1:nfa_move.
+2022-04-02T02:24:12+00:00 DESKTOP-0VAK4N3#02 I: Test student:1:nfa_move is successful.
+2022-04-02T02:24:12+00:00 DESKTOP-0VAK4N3#02 I: End test student:1:nfa_move.
+2022-04-02T02:24:12+00:00 DESKTOP-0VAK4N3#02 I: Start test student:7:nfa_to_dfa.
+2022-04-02T02:24:12+00:00 DESKTOP-0VAK4N3#02 I: Test student:7:nfa_to_dfa is successful.
+2022-04-02T02:24:12+00:00 DESKTOP-0VAK4N3#02 I: End test student:7:nfa_to_dfa.
+2022-04-02T02:24:12+00:00 DESKTOP-0VAK4N3#02 I: Start test student:8:re_to_nfa.
+2022-04-02T02:24:12+00:00 DESKTOP-0VAK4N3#02 I: Test student:8:re_to_nfa is successful.
+2022-04-02T02:24:12+00:00 DESKTOP-0VAK4N3#02 I: End test student:8:re_to_nfa.

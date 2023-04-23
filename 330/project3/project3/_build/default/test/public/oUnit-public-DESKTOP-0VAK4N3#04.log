@@ -1,0 +1,6 @@
+2022-03-31T20:32:34+00:00 DESKTOP-0VAK4N3#04 I: Start test public:3:nfa_to_dfa.
+2022-03-31T20:32:34+00:00 DESKTOP-0VAK4N3#04 I: Test public:3:nfa_to_dfa is successful.
+2022-03-31T20:32:34+00:00 DESKTOP-0VAK4N3#04 I: End test public:3:nfa_to_dfa.
+2022-03-31T20:32:34+00:00 DESKTOP-0VAK4N3#04 I: Start test public:6:nfa_new_states.
+2022-03-31T20:32:34+00:00 DESKTOP-0VAK4N3#04 I: Test public:6:nfa_new_states is successful.
+2022-03-31T20:32:34+00:00 DESKTOP-0VAK4N3#04 I: End test public:6:nfa_new_states.
