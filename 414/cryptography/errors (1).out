@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "./task3", line 283, in <module>
+    fulldata.replace(finalmsgs[final], finalmsgs[common])
+TypeError: list indices must be integers or slices, not NoneType
+Amount does not match

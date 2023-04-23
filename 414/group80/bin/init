@@ -1,0 +1,33 @@
+#!/bin/bash
+
+if [ $# -ne 1 ]
+then
+  echo "Usage:  init <filename>"
+  exit 62
+fi
+
+BANK_FILE="$1.bank"
+ATM_FILE="$1.atm"
+
+if test -f "$BANK_FILE" || test -f "$ATM_FILE";
+then
+  echo "Error: one of the files already exists"
+  exit 63
+fi
+
+gen_aes_key () {
+  openssl enc -aes-256-cbc -pass pass:key1 -P -pbkdf2 -iter 10000 | sed '1d' | sed 's/.*key=//' | sed 's/.*iv =//' | tr -d '\n'
+}
+
+if (touch "$BANK_FILE" && touch "$ATM_FILE");
+then
+  AES_KEY=$(gen_aes_key)
+  echo $AES_KEY >> $ATM_FILE
+  echo $AES_KEY >> $BANK_FILE
+  echo "Successfully initialized bank state"
+  exit 0
+else
+  echo "Error creating initialization files"
+  exit 64
+fi
+

@@ -1,0 +1,9 @@
+*** Format string exploitation detected (10) ***
+*** Shellcode sent to the server (10) ***
+*** Address found in shellcode (5) ***
+*** Address at correct location (5) ***
+*** NOP sled in message (5) ***
+*** NOP sled preceeds shellcode (5) ***
+*** No more than 5 messages transmitted (5) ***
+*** Exploit unsuccessful (-5) ***
+=== Total score: 45

