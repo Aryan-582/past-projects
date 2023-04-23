@@ -1,0 +1,12 @@
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: Start test public:3:test_is_odd_evens.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: 
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: law test_is_odd_evens: 10 relevant cases (10 total)
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: 
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: Test public:3:test_is_odd_evens is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: End test public:3:test_is_odd_evens.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: Start test public:9:test_pow_pos.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: 
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: law test_pow_pos: 30 relevant cases (30 total)
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: 
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: Test public:9:test_pow_pos is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: End test public:9:test_pow_pos.

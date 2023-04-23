@@ -1,0 +1,9 @@
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#01 I: Start test student:0:sanity.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#01 I: Test student:0:sanity is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#01 I: End test student:0:sanity.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#01 I: Start test student:9:is_prime.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#01 I: Test student:9:is_prime is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#01 I: End test student:9:is_prime.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#01 I: Start test student:11:combine.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#01 I: Test student:11:combine is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#01 I: End test student:11:combine.

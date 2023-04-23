@@ -1,0 +1,25 @@
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 I: Start test public:0:test_count_occ.
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 I: 
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 I: law test_count_occ: 0 relevant cases (1 total)
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 I: 
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 E: 
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 E: test `test_count_occ` raised exception `Failure("unimplemented")`
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 E: on `0 (after 61 shrink steps)`
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 E: Called from Dune__exe__Pbt.test_count_occ.(fun) in file "test/pbt/pbt.ml", line 17, characters 3-16
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 E: Called from QCheck2.Test.run_law in file "src/core/QCheck2.ml", line 1410, characters 9-14
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 E: Called from QCheck2.Test.check_state_input in file "src/core/QCheck2.ml", line 1533, characters 20-48
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 E: 
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 E: 
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 E: Test public:0:test_count_occ exited with an error.
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 E: test `test_count_occ` raised exception `Failure("unimplemented")`
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 E: on `0 (after 61 shrink steps)`
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 E: Called from Dune__exe__Pbt.test_count_occ.(fun) in file "test/pbt/pbt.ml", line 17, characters 3-16
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 E: Called from QCheck2.Test.run_law in file "src/core/QCheck2.ml", line 1410, characters 9-14
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 E: Called from QCheck2.Test.check_state_input in file "src/core/QCheck2.ml", line 1533, characters 20-48
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 E:  in test public:0:test_count_occ.
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 E: Raised at QCheck2.Test.check_result in file "src/core/QCheck2.ml", line 1762, characters 6-78
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 E: 
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#01 I: End test public:0:test_count_occ.

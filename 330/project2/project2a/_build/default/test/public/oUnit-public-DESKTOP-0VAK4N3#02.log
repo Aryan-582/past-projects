@@ -1,0 +1,9 @@
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: Start test public:1:is_odd.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: Test public:1:is_odd is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: End test public:1:is_odd.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: Start test public:9:get.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: Test public:9:get is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: End test public:9:get.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: Start test public:11:reverse.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: Test public:11:reverse is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: End test public:11:reverse.

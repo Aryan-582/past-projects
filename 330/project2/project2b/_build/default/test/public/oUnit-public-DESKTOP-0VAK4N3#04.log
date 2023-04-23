@@ -1,0 +1,16 @@
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#04 I: Start test public:3:uniq.
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#04 E: Test public:3:uniq exited with an error.
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#04 E: Failure("unimplemented") in test public:3:uniq.
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#04 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#04 E: Called from Dune__exe__Public.public_uniq in file "test/public/public.ml", line 47, characters 73-81
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#04 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#04 E: 
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#04 I: End test public:3:uniq.
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#04 I: Start test public:7:int_tree_insert_and_mem.
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#04 E: Test public:7:int_tree_insert_and_mem exited with an error.
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#04 E: Failure("unimplemented") in test public:7:int_tree_insert_and_mem.
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#04 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#04 E: Called from Dune__exe__Public.public_int_tree_insert_and_mem in file "test/public/public.ml", line 90, characters 27-57
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#04 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#04 E: 
+2022-02-26T22:58:03+00:00 DESKTOP-0VAK4N3#04 I: End test public:7:int_tree_insert_and_mem.

@@ -1,0 +1,12 @@
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: Start test public:2:test_is_odd_odds.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: 
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: law test_is_odd_odds: 10 relevant cases (10 total)
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: 
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: Test public:2:test_is_odd_odds is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: End test public:2:test_is_odd_odds.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: Start test public:8:test_fib_geq_z.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: 
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: law test_fib_geq_z: 20 relevant cases (20 total)
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: 
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: Test public:8:test_fib_geq_z is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: End test public:8:test_fib_geq_z.

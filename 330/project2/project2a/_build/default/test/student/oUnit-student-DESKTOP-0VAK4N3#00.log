@@ -1,0 +1,179 @@
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Runner: processes
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Chooser: simple
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Configuration suite_name = "student"
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Configuration cache_filename = "/home/aryan/cmsc330spring22/project2a/_build/default/test/student/oUnit-$(suite_name).cache"
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Configuration run_gc_full_major = "true"
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Configuration display = "true"
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Configuration results_style_1_X = "false"
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Configuration testdata_dir = "none"
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Configuration health_check_interval = "1."
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Configuration verbose = "false"
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Configuration chooser = "simple"
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Configuration output_html_dir = "none"
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Configuration processes_kill_period = "5."
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Configuration runner = "processes"
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Configuration shards = "6"
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Configuration processes_grace_period = "5."
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Configuration log_encoding = "utf-8"
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Configuration output_junit_file = "none"
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Configuration ci = "false"
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Configuration output_file = "/home/aryan/cmsc330spring22/project2a/_build/default/test/student/oUnit-$(suite_name)-$(shard_id).log"
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Using 6 workers maximum.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Starting worker number DESKTOP-0VAK4N3#01.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Worker DESKTOP-0VAK4N3#01 started.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Starting worker number DESKTOP-0VAK4N3#02.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Worker DESKTOP-0VAK4N3#02 started.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Starting worker number DESKTOP-0VAK4N3#03.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Worker DESKTOP-0VAK4N3#03 started.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Starting worker number DESKTOP-0VAK4N3#04.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Worker DESKTOP-0VAK4N3#04 started.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Starting worker number DESKTOP-0VAK4N3#05.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Worker DESKTOP-0VAK4N3#05 started.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Starting worker number DESKTOP-0VAK4N3#06.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Worker DESKTOP-0VAK4N3#06 started.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:5:fibonacci, student:4:volume, student:3:area, student:2:is_odd, student:1:rev_tup, student:0:sanity.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#01 I: Start test student:0:sanity.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: Start test student:1:rev_tup.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: Start test student:2:is_odd.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: Start test student:3:area.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:5:fibonacci, student:4:volume, student:3:area, student:2:is_odd, student:1:rev_tup, student:0:sanity.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#01 I: Test student:0:sanity is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: Test student:1:rev_tup is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: Test student:2:is_odd is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: Test student:3:area is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:5:fibonacci, student:4:volume, student:3:area, student:2:is_odd, student:1:rev_tup, student:0:sanity.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#01 I: End test student:0:sanity.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: End test student:1:rev_tup.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: End test student:2:is_odd.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: End test student:3:area.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:5:fibonacci, student:4:volume, student:3:area, student:2:is_odd, student:1:rev_tup, student:0:sanity.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:9:is_prime, student:8:gcf, student:7:log, student:6:pow, student:5:fibonacci, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: Start test student:6:pow.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: Start test student:7:log.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: Start test student:8:gcf.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#01 I: Start test student:9:is_prime.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:9:is_prime, student:8:gcf, student:7:log, student:6:pow, student:5:fibonacci, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#06 I: Start test student:5:fibonacci.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:9:is_prime, student:8:gcf, student:7:log, student:6:pow, student:5:fibonacci, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: Test student:6:pow is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: Test student:8:gcf is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:9:is_prime, student:8:gcf, student:7:log, student:6:pow, student:5:fibonacci, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: Test student:7:log is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: End test student:8:gcf.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#01 I: Test student:9:is_prime is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:9:is_prime, student:8:gcf, student:7:log, student:6:pow, student:5:fibonacci, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: End test student:7:log.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#01 I: End test student:9:is_prime.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:10:larger, student:9:is_prime, student:7:log, student:6:pow, student:5:fibonacci, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#05 I: Start test student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: Start test student:10:larger.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:12:reverse, student:11:combine, student:10:larger, student:6:pow, student:5:fibonacci, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#01 I: Start test student:11:combine.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: Start test student:12:reverse.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:12:reverse, student:11:combine, student:10:larger, student:6:pow, student:5:fibonacci, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: End test student:6:pow.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:12:reverse, student:11:combine, student:10:larger, student:6:pow, student:5:fibonacci, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:13:get, student:12:reverse, student:11:combine, student:10:larger, student:5:fibonacci, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: Start test student:13:get.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:13:get, student:12:reverse, student:11:combine, student:10:larger, student:5:fibonacci, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: Test student:10:larger is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:13:get, student:12:reverse, student:11:combine, student:10:larger, student:5:fibonacci, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#06 I: Test student:5:fibonacci is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#01 I: Test student:11:combine is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: Test student:12:reverse is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:13:get, student:12:reverse, student:11:combine, student:10:larger, student:5:fibonacci, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#06 I: End test student:5:fibonacci.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: End test student:10:larger.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: End test student:12:reverse.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:13:get, student:12:reverse, student:11:combine, student:10:larger, student:5:fibonacci, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Still 6 tests running : student:16:merge, student:15:is_palindrome, student:14:rotate, student:13:get, student:11:combine, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:16:merge, student:15:is_palindrome, student:14:rotate, student:13:get, student:11:combine, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: Start test student:14:rotate.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: Start test student:15:is_palindrome.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#06 I: Start test student:16:merge.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Still 6 tests running : student:16:merge, student:15:is_palindrome, student:14:rotate, student:13:get, student:11:combine, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:16:merge, student:15:is_palindrome, student:14:rotate, student:13:get, student:11:combine, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: Test student:13:get is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Still 6 tests running : student:16:merge, student:15:is_palindrome, student:14:rotate, student:13:get, student:11:combine, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:16:merge, student:15:is_palindrome, student:14:rotate, student:13:get, student:11:combine, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#04 I: End test student:13:get.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Still 6 tests running : student:16:merge, student:15:is_palindrome, student:14:rotate, student:13:get, student:11:combine, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 6 tests running: student:16:merge, student:15:is_palindrome, student:14:rotate, student:13:get, student:11:combine, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Still 5 tests running : student:16:merge, student:15:is_palindrome, student:14:rotate, student:11:combine, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 5 tests running: student:16:merge, student:15:is_palindrome, student:14:rotate, student:11:combine, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#01 I: End test student:11:combine.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Still 5 tests running : student:16:merge, student:15:is_palindrome, student:14:rotate, student:11:combine, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 5 tests running: student:16:merge, student:15:is_palindrome, student:14:rotate, student:11:combine, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Still 4 tests running : student:16:merge, student:15:is_palindrome, student:14:rotate, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 4 tests running: student:16:merge, student:15:is_palindrome, student:14:rotate, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: Test student:15:is_palindrome is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Still 4 tests running : student:16:merge, student:15:is_palindrome, student:14:rotate, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 4 tests running: student:16:merge, student:15:is_palindrome, student:14:rotate, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: Test student:14:rotate is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#06 I: Test student:16:merge is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Still 4 tests running : student:16:merge, student:15:is_palindrome, student:14:rotate, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 4 tests running: student:16:merge, student:15:is_palindrome, student:14:rotate, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#03 I: End test student:14:rotate.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#06 I: End test student:16:merge.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Still 4 tests running : student:16:merge, student:15:is_palindrome, student:14:rotate, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 4 tests running: student:16:merge, student:15:is_palindrome, student:14:rotate, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Still 2 tests running : student:15:is_palindrome, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 2 tests running: student:15:is_palindrome, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#02 I: End test student:15:is_palindrome.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Still 2 tests running : student:15:is_palindrome, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 2 tests running: student:15:is_palindrome, student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Still 1 tests running : student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 1 tests running: student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#05 I: Test student:4:volume is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Still 1 tests running : student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 1 tests running: student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#05 I: End test student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Still 1 tests running : student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 1 tests running: student:4:volume.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: 0 tests running: .
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Worker DESKTOP-0VAK4N3#04 has ended.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Worker DESKTOP-0VAK4N3#01 has ended.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Worker DESKTOP-0VAK4N3#03 has ended.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Worker DESKTOP-0VAK4N3#06 died unexpectedly.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Worker DESKTOP-0VAK4N3#02 died unexpectedly.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Worker DESKTOP-0VAK4N3#05 died unexpectedly.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Used 6 worker during test execution.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Run 2 tests with shard DESKTOP-0VAK4N3#06.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Run 1 tests with shard DESKTOP-0VAK4N3#05.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Run 4 tests with shard DESKTOP-0VAK4N3#03.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Run 4 tests with shard DESKTOP-0VAK4N3#02.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Run 3 tests with shard DESKTOP-0VAK4N3#04.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Run 3 tests with shard DESKTOP-0VAK4N3#01.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Check health of shard DESKTOP-0VAK4N3#06, 7 times.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Check health of shard DESKTOP-0VAK4N3#05, 2 times.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Check health of shard DESKTOP-0VAK4N3#03, 6 times.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Check health of shard DESKTOP-0VAK4N3#02, 5 times.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Check health of shard DESKTOP-0VAK4N3#04, 12 times.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Check health of shard DESKTOP-0VAK4N3#01, 10 times.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: ==============
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Summary:
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Test student:4:volume is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Test student:15:is_palindrome is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Test student:16:merge is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Test student:14:rotate is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Test student:11:combine is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Test student:13:get is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Test student:12:reverse is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Test student:10:larger is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Test student:5:fibonacci is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Test student:6:pow is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Test student:9:is_prime is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Test student:7:log is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Test student:8:gcf is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Test student:3:area is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Test student:2:is_odd is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Test student:1:rev_tup is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Test student:0:sanity is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Ran: 17 tests in: 0.10 seconds.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Cases: 17.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Tried: 17.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Errors: 0.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Failures: 0.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Skip: 0.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Todo: 0.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#00 I: Timeout: 0.

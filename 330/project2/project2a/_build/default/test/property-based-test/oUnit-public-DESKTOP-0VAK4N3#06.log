@@ -1,0 +1,12 @@
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#06 I: Start test public:5:test_is_odd_multiplicativity.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#06 I: 
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#06 I: law test_is_odd_multiplicativity: 10 relevant cases (10 total)
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#06 I: 
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#06 I: Test public:5:test_is_odd_multiplicativity is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#06 I: End test public:5:test_is_odd_multiplicativity.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#06 I: Start test public:11:test_rev_lst.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#06 I: 
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#06 I: law test_rev_lst: 30 relevant cases (30 total)
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#06 I: 
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#06 I: Test public:11:test_rev_lst is successful.
+2022-02-21T17:52:11+00:00 DESKTOP-0VAK4N3#06 I: End test public:11:test_rev_lst.
