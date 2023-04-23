@@ -1,0 +1,4 @@
+Capacity: 10, Occupants: [Diana, Alejandro, Sierra]
+Capacity: 10
+Occupants: [Diana, Alejandro, Sierra]
+Number of Occupants: 3

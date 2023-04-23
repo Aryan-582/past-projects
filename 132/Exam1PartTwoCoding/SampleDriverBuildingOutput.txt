@@ -1,0 +1,15 @@
+Address: Infinite Loop Blvd
+MaxFloors: 2, RoomsPerFloor: 4, RoomCapacity:6
+
+****** Floor: 0 ******
+Room: 0, Capacity: 6, Occupants: [Johnny, Aastha]
+Room: 1, Capacity: 6, Occupants: []
+Room: 2, Capacity: 6, Occupants: []
+Room: 3, Capacity: 6, Occupants: []
+
+****** Floor: 1 ******
+Room: 0, Capacity: 6, Occupants: []
+Room: 1, Capacity: 6, Occupants: [Liv]
+Room: 2, Capacity: 6, Occupants: [Olivia]
+Room: 3, Capacity: 6, Occupants: []
+

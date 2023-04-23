@@ -1,0 +1,50 @@
+======== Marker #1 ========
+Valid?: true
+
+======== Marker #2 ========
+Facility name: CollegePark
+Total Units: 0
+
+======== Marker #3 ========
+Facility name: CollegePark
+Total Units: 3
+UnitId:StorageUnitOne, Items: [BiologyBook, PHPBook, JavaScriptBook]
+UnitId:StorageTwo, Items: [Mac]
+UnitId:AnotherUnit, Items: [Star Wars DVD, Hallmark DVD]
+
+======== Marker #4 ========
+Name: CollegePark
+TotalUnits: 3
+TotalItemsInFacility: 6
+
+======== Marker #5 ========
+Items Sorted: [BiologyBook, JavaScriptBook, PHPBook]
+
+======== Marker #6 ========
+Thread Output
+UnitId:StorageUnitOne, Items: [BiologyBook, PHPBook, JavaScriptBook]
+UnitId:AnotherUnit, Items: [Star Wars DVD, Hallmark DVD]
+
+======== Marker #7 ========
+Iterator output:
+StorageUnitOne
+StorageTwo
+AnotherUnit
+
+======== Marker #8 ========
+Facility name: NONAME
+Total Units: 0
+
+---------------------------
+Facility name: NONAME
+Total Units: 1
+UnitId:UnitOne, Items: [PoolTable]
+
+======== Marker #9 ========
+Less than zero: true
+
+======== Marker #10 ========
+Facility name: FacilityWithFirstUnit
+Total Units: 1
+UnitId:StorageUnitOne, Items: [BiologyBook, PHPBook, JavaScriptBook]
+

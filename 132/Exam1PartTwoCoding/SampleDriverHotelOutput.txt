@@ -1,0 +1,16 @@
+Hotel: TerpHotel
+PentHouseMembers: Smith
+PentHouseRoom: Capacity: 10, Occupants: []
+Pool: Yes
+Address: CollegePark
+MaxFloors: 2, RoomsPerFloor: 2, RoomCapacity:4
+
+****** Floor: 0 ******
+Room: 0, Capacity: 4, Occupants: []
+Room: 1, Capacity: 4, Occupants: [Swati, Anastasia, Olivia]
+
+****** Floor: 1 ******
+Room: 0, Capacity: 4, Occupants: []
+Room: 1, Capacity: 4, Occupants: [Liv, Phoebe]
+
+[Anastasia, Olivia, Swati]
