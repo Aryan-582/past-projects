@@ -1,0 +1,23 @@
+======== Marker #1 ========
+Section Number: 50-[]
+Section Number: 10-[], TaName: Peter
+
+======== Marker #2 ========
+Section Number: 50-[Kelly]
+Section Number: 10-[Marcos, Rose, Tom], TaName: Peter
+
+======== Marker #3 ========
+Section Number: 50-[Kelly, Sabrina]
+Section Number: 10-[Marcos, Rose, Tom], TaName: Peter
+
+======== Marker #4 ========
+Enrollment Per Section
+{10=3, 50=2}
+
+======== Marker #5 ========
+TAs honor section [Peter]
+
+======== Marker #6 ========
+Removing section 50
+Section Number: 10-[Kelly, Marcos, Rose, Sabrina, Tom], TaName: Peter
+

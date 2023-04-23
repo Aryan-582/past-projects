@@ -1,0 +1,5 @@
+Section Number: 50-[Maurice, Rachel]
+SectionNumber: 50
+Enrollment: 2
+Students: [Maurice, Rachel]
+Comparison: true

@@ -1,0 +1,6 @@
+Section Number: 50-[Maurice, Rachel], TaName: Helen
+SectionNumber: 50
+Enrollment: 2
+TAName: Helen
+Students: [Maurice, Rachel]
+Comparison: true

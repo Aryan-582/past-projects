@@ -1,0 +1,24 @@
+======== Marker #1 ========
+
+        {60:Laura}
+{50:Bobby}
+        {10:Rachel}
+                {7:Tommy}
+
+======== Marker #2 ========
+Processing for Nodes Two Children: [(50,Bobby)]
+
+======== Marker #3 ========
+Path to find: 7
+Path: [50, 10, 7]
+
+======== Marker #4 ========
+Path to find: 2
+Path: [50, 10, 7]
+
+======== Marker #5 ========
+Keys of Nodes at level: 1
+Keys: [50]
+======== Marker #6 ========
+Keys of Nodes at level: 2
+Keys: [10, 60]
