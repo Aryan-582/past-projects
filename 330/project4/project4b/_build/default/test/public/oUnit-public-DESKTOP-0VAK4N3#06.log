@@ -1,0 +1,12 @@
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#06 I: Start test public:5:public_expr_double_fun.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#06 I: Test public:5:public_expr_double_fun is successful.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#06 I: End test public:5:public_expr_double_fun.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#06 I: Start test public:16:public_expr_single_and.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#06 I: Test public:16:public_expr_single_and is successful.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#06 I: End test public:16:public_expr_single_and.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#06 I: Start test public:17:public_expr_single_bool.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#06 I: Test public:17:public_expr_single_bool is successful.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#06 I: End test public:17:public_expr_single_bool.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#06 I: Start test public:26:public_err_div_by_zero.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#06 I: Test public:26:public_err_div_by_zero is successful.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#06 I: End test public:26:public_err_div_by_zero.

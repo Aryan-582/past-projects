@@ -1,0 +1,15 @@
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#04 I: Start test public:3:public_expr_add1.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#04 I: Test public:3:public_expr_add1 is successful.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#04 I: End test public:3:public_expr_add1.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#04 I: Start test public:9:public_expr_nested_let.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#04 I: Test public:9:public_expr_nested_let is successful.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#04 I: End test public:9:public_expr_nested_let.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#04 I: Start test public:12:public_expr_simple_div.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#04 I: Test public:12:public_expr_simple_div is successful.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#04 I: End test public:12:public_expr_simple_div.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#04 I: Start test public:19:public_expr_single_if.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#04 I: Test public:19:public_expr_single_if is successful.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#04 I: End test public:19:public_expr_single_if.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#04 I: Start test public:24:public_expr_single_or.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#04 I: Test public:24:public_expr_single_or is successful.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#04 I: End test public:24:public_expr_single_or.

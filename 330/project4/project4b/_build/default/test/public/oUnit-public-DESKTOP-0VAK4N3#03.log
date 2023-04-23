@@ -1,0 +1,18 @@
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#03 I: Start test public:2:public_mutop_simple_def_and_let.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#03 I: Test public:2:public_mutop_simple_def_and_let is successful.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#03 I: End test public:2:public_mutop_simple_def_and_let.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#03 I: Start test public:6:public_expr_let_if.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#03 I: Test public:6:public_expr_let_if is successful.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#03 I: End test public:6:public_expr_let_if.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#03 I: Start test public:15:public_expr_simple_sum.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#03 I: Test public:15:public_expr_simple_sum is successful.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#03 I: End test public:15:public_expr_simple_sum.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#03 I: Start test public:21:public_expr_single_notequal.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#03 I: Test public:21:public_expr_single_notequal is successful.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#03 I: End test public:21:public_expr_single_notequal.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#03 I: Start test public:22:public_expr_single_not.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#03 I: Test public:22:public_expr_single_not is successful.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#03 I: End test public:22:public_expr_single_not.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#03 I: Start test public:28:public_mutop_nonempty_env.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#03 I: Test public:28:public_mutop_nonempty_env is successful.
+2022-04-26T01:33:21+00:00 DESKTOP-0VAK4N3#03 I: End test public:28:public_mutop_nonempty_env.
